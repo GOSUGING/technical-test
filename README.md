@@ -430,7 +430,7 @@ curl http://localhost:8080/notifications/channel/email
 
 ---
 
-## 👤 Autor
+## 👤 Autor Aron SUy
 
 Solución desarrollada para la Prueba Técnica Entry Level
 
